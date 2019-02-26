@@ -2,5 +2,5 @@
 .idea/
 package-lock.json
 /build/
-
+.DS_Store
 /yarn.lock
